@@ -6,3 +6,4 @@ This is the replication package of the work:
 - `valid_instances.numbers` : contains the valid instances inspected during the manual analysis.
 - `discarded_instances.numbers` : contains the instances discared during the manual analysis.
 - `chatgpt_analysis.numbers` : contains the instances used to evaluate the performances of ChatGpt on the two considered code review automation tasks.
+- `statistical_analysis_instance_complexity.numbers` : contains the results of the statistical analysis on the instances complexity.
