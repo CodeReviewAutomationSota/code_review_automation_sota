@@ -8,4 +8,4 @@ This is the replication package of the work:
 - `chatgpt_analysis.numbers` : contains the instances used to evaluate the performances of ChatGpt-3 on the two considered code review automation tasks and its predictions.
 - `statistical_analysis_instance_complexity.numbers` : contains the results of the statistical analysis on the instances complexity.
 - `code_comment_to_code_labels.numbers`, `code_to_comment_labels.numbers` : contain informations, such as number of total istances, number of correct/wrong predictions, percentage of correct predictions, for each label used, for _code&comment-to-code_ and _code-to-comment_ task respectively.
-- `code_complexity` : contains all the necessary to compute the code generation complexity based on AST-changes between the input code (code submitted for review) and the code to generate to implement the reviewer comment (code revised).
+- `code_complexity` : contains all the necessary to compute the code generation complexity based on AST-changes between the input code (code submitted for review) and the code to generate in order to implement the reviewer comment (code revised).
